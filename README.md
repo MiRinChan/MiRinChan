@@ -12,3 +12,5 @@
 
 ![ResizedImage_2025-03-22_00-26-51_1](https://github.com/user-attachments/assets/273ba832-ecf9-4803-b2d6-0c511ee5577d)
 (I have copyright of these images.)
+
+Found a Android Bug - `[Waiting for id]`
