@@ -11,4 +11,11 @@
 
 (I have copyright of these images.)
 
-Found a Android Bug - `[Waiting for id]`
+## What I did? (and index)
+1. Found a Android Bug - `[Waiting for id]` (July 27, 2026)
+2. Website - [IsItBuilt](http://yet.nixoscn.org/), check the nixpkgs binary cache (August 12, 2026)
+3. Website - [nixoscn.org](http://nixoscn.org/) (May 14, 2026)
+4. [gallant-terminal-font](https://github.com/MiRinChan/gallant-terminal-font), i use it in blink terminal.
+5. [Enable emergency call on Pixel in China](https://github.com/MiRinChan/PixelEmergency)
+6. [An easy skill of Scriptable](https://github.com/MiRinChan/scriptable-zh-skill)
+7. [mitm script](https://github.com/MiRinChan/CarlyLeeRoaming)
