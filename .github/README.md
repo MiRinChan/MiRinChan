@@ -12,7 +12,7 @@
 (I have copyright of these images.)
 
 ## What I did? (and index)
-1. Found a Android Bug - `[Waiting for id]` (July 27, 2026)
+1. Found a Android Bug - `IssueTracker 539158279` (July 27, 2026)
 2. Website - [IsItBuilt](http://yet.nixoscn.org/), check the nixpkgs binary cache (August 12, 2026)
 3. Website - [nixoscn.org](http://nixoscn.org/) (May 14, 2026)
 4. [gallant-terminal-font](https://github.com/MiRinChan/gallant-terminal-font), i use it in blink terminal.
